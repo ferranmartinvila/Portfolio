@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
+
+Here you can find a brief presentation of the most relatable software that I developed during the past 4 years.
+
+### Index
+
+- Projects:
+- Currently working on:
+- Contact Me:
+
+### Projects
+
+### Currently working on
+
+### Contact Me
 
 You can use the [editor on GitHub](https://github.com/ferranmartinvila/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
