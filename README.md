@@ -4,9 +4,9 @@ Here you can find a brief presentation of the most relatable software that I dev
 
 ### Index
 
-- Projects [https://ferranmartinvila.github.io/Portfolio/Projects]
-- Currently working on [https://ferranmartinvila.github.io/Portfolio/WorkingOn]
-- Contact Me [https://ferranmartinvila.github.io/Portfolio/Contact]
+- [Projects](https://ferranmartinvila.github.io/Portfolio/Projects)
+- [Currently working on ](https://ferranmartinvila.github.io/Portfolio/WorkingOn)
+- [Contact Me](https://ferranmartinvila.github.io/Portfolio/Contact)
 
 ### Projects
 
