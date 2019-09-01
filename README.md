@@ -4,9 +4,9 @@ Here you can find a brief presentation of the most relatable software that I dev
 
 ### Index
 
-- Projects:[]
-- Currently working on:
-- Contact Me:
+- Projects [https://ferranmartinvila.github.io/Portfolio/Projects]
+- Currently working on [https://ferranmartinvila.github.io/Portfolio/WorkingOn]
+- Contact Me [https://ferranmartinvila.github.io/Portfolio/Contact]
 
 ### Projects
 
@@ -14,7 +14,7 @@ Here you can find a brief presentation of the most relatable software that I dev
 
 ### Contact Me
 
-You can use the [editor on GitHub](https://github.com/ferranmartinvila/Portfolio/blob/master/Projects.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://ferranmartinvila.github.io/Portfolio/Projects) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
